@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lenovo\\Desktop\\Programming\\Task 10 - 03.06.2024\\Task 10 - 03.06.2024.csproj": {}
+    "C:\\Users\\Lenovo\\Desktop\\Programming\\Task-10---03.06.2024\\Task 10 - 03.06.2024\\Task 10 - 03.06.2024.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lenovo\\Desktop\\Programming\\Task 10 - 03.06.2024\\Task 10 - 03.06.2024.csproj": {
+    "C:\\Users\\Lenovo\\Desktop\\Programming\\Task-10---03.06.2024\\Task 10 - 03.06.2024\\Task 10 - 03.06.2024.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\Programming\\Task 10 - 03.06.2024\\Task 10 - 03.06.2024.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\Programming\\Task-10---03.06.2024\\Task 10 - 03.06.2024\\Task 10 - 03.06.2024.csproj",
         "projectName": "Task 10 - 03.06.2024",
-        "projectPath": "C:\\Users\\Lenovo\\Desktop\\Programming\\Task 10 - 03.06.2024\\Task 10 - 03.06.2024.csproj",
+        "projectPath": "C:\\Users\\Lenovo\\Desktop\\Programming\\Task-10---03.06.2024\\Task 10 - 03.06.2024\\Task 10 - 03.06.2024.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\Desktop\\Programming\\Task 10 - 03.06.2024\\obj\\",
+        "outputPath": "C:\\Users\\Lenovo\\Desktop\\Programming\\Task-10---03.06.2024\\Task 10 - 03.06.2024\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",

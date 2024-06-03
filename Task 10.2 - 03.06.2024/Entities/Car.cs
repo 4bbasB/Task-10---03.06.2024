@@ -28,7 +28,7 @@ namespace Task_10._2___03._06._2024.Entities
         public string Model { get; set; }
         public CarTypes Type { get; set; }
 
-        public Car(string name, string brand, string model, CarTypes type)
+        public Car( string brand, string model, CarTypes type)
         {
             Id = ++_counter;
             Brand = brand;
@@ -38,9 +38,9 @@ namespace Task_10._2___03._06._2024.Entities
 
         public string ShowInfo()
         {
-            return ($"Id: {Id}" +
-                $"Brand: {Brand}" +
-                $"Model: {Model}" +
+            return ($"Id: {Id}  " +
+                $"Brand: {Brand}  " +
+                $"Model: {Model}  " +
                 $"Type: {Type}");
         }
 
